@@ -11,6 +11,6 @@ layout: home
 
 Feel free to explore my academic and personal achievements here!
 
-[Our group](https://www.homepages.ucl.ac.uk/~ucapcah/) || [PNR spotlight](https://www.ucl.ac.uk/news/2021/dec/wonder-material-phosphorene-nanoribbons-live-hype-first-demonstration) 
+[Our group](https://www.homepages.ucl.ac.uk/~ucapcah/) | [PNR spotlight](https://www.ucl.ac.uk/news/2021/dec/wonder-material-phosphorene-nanoribbons-live-hype-first-demonstration) 
 
 
