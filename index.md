@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Welcome!
 
 👋 Hi, I’m Eva.
 
