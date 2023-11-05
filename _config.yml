@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: About me
+title: Eva Aw
 email: eva.aw.15@ucl.ac.uk
 description: PhD | CDT Advanced Charaterisation of Materials | Department of Physics & Astronomy| University College London, UK.
 url: "https://esyaw.github.io" 
