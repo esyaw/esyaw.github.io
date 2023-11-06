@@ -4,7 +4,8 @@ layout: home
 
 **About me**
 
-![](/assets/images/evaphd.png)
+<img src="/assets/images/evaphd.png" width="200"/>
+
 
 👋 Hi, I’m Eva
 
