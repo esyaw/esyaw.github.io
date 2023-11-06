@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-#### Room Temperature Optically and Magnetically Active Edges in Phosphorene Nanoribbons
+#### **Room Temperature Optically and Magnetically Active Edges in Phosphorene Nanoribbons**
 Published in *arXiv*, 2022, Under Review 
 
 Arjun Ashoka, Adam J. Clancy, Naitik A. Panjwani, Nicholas J. M. Popiel, Alex Eaton, Thomas G. Parton, Loren Picco, Sascha Feldmann, Rebecca R. C. Shutt, Remington Carey, **Eva S. Y. Aw**, Thomas J. Macdonald, Marion E. Severijnen, Sandra Kleuskens, Hilton Barbosa de Aguiar, Richard H. Friend, Jan Behrends, Peter C.M. Christianen, Christopher A. Howard, Akshay Rao, Raj Pandya
