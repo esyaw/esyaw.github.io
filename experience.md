@@ -34,7 +34,7 @@ _July 2018 - August 2018_
 
 **"Finding Nano" Summer School**  
 _June - July 2017_  
-**Technical University of Munich** - Munich, Germany  
+**Technical University of Munich**, Munich, Germany  
 - Focus: Nanoscience and Nanotechnology, Research and Industry in Germany
 - Fabrication of nano-sized imprinted stamps using UV and thermal imprint method
 
@@ -46,6 +46,7 @@ _June - July 2017_
 
 ## Internship
 
-**Bristol Nano Dynamics Ltd**  
+**Bristol Nano Dynamics Ltd**, Bristol, UK
+_May - June 2023_ 
 - Performed market research and analysis to assess potential for high-tech scientific instrumentation.
 - Collected and processed data for the company's prototype high-speed AFM system, contributing to product development insights.
