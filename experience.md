@@ -12,7 +12,7 @@ _September 2019 - January 2024_
 **University College London**, London, UK  
 - Part of the CDT Advanced Characterisation of Materials (CDT-ACM) joint programme between UCL, Imperial College London, and Trinity College Dublin.
 - Synthesis of materials using the metal-ammonia intercalation method, focusing on phosphorene nanoribbons (PNRs) and intercalation of 2D ferromagnet Cr2Ge2Te6.
-- Probing local conductivity of PNRs using high-speed AFM
+- Probing local conductivity of PNRs using high-speed AFM (collaboration with Bristol Nano Dynamics Ltd)
 - Characterisation techniques using AFM, TEM, Raman spectroscopy, XRD, ICP.
 - Lab maintenance, building and changing faulty lab equipment
 
