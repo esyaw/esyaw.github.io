@@ -40,10 +40,10 @@ _June - July 2017_
 
 ## Teaching & Outreach
 
-- March 2021 to March 2023: Undergraduate teaching assistant for "Solid State Physics" & "Properties of Matter" courses
-- October 2021 to October 2022: Volunteered in Bridging the Future charity to help educational gaps for underprivileged students.
-- June 2023 - Part of the senior cohort panel on CDT-ACM retreat to provide guidance for newer cohorts
-- February 2020 - present: Organized and participated in the annual UCL Physics & Astronomy day to celebrate artistic talents in the department and to inspire public interest in the sciences.
+- _March 2021 - March 2023_: Undergraduate teaching assistant for "Solid State Physics" & "Properties of Matter" courses
+- _October 2021 - October 2022_: Volunteered in Bridging the Future charity to help educational gaps for underprivileged students.
+- _June 2023_: Joined the senior cohort panel on CDT-ACM retreat to provide guidance for newer cohorts
+- _February 2020 - present_: Organized and participated in the annual UCL Physics & Astronomy day to celebrate artistic talents in the department and to inspire public interest in the sciences.
 
 ## Internship
 
