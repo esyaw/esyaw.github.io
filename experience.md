@@ -7,7 +7,7 @@ permalink: /experience/
 
 ## Research
 
-### **PhD in Materials Physics**  
+**PhD in Materials Physics**  
 _September 2019 - January 2024_  
 **University College London**, London, UK  
 - Part of the CDT Advanced Characterisation of Materials (CDT-ACM) joint programme between UCL, Imperial College London, and Trinity College Dublin.
@@ -17,20 +17,22 @@ _September 2019 - January 2024_
 - Lab maintenance, building and changing faulty lab equipment
 
 
-### **Masters Research Project**  
+**Masters Research Project**  
 _October 2018 - June 2019_  
 **University College London**, London, UK  
 - Investigated the growth of HfO2-based Ferroelectric Thin Films.
 - Utilized radiofrequency magnetron sputtering technique for the deposition of epitaxial thin films of Zirconia-doped HfO2 on YSZ substrates.
 - Studied crystal structures and ferroelectric properties using XRD, dielectric impedance spectroscopy, and polarization-field measurements.
+  
 
-### **Summer Research Project**  
+**Summer Research Project**  
 _July 2018 - August 2018_  
 **Seoul National University**, Seoul, South Korea  
 - Grew SnOx films to study their electrical properties through pulse laser deposition and atomic layer deposition.
 - Assessed resistivity and Hall voltage across dielectrics using the Van der Pauw method.
 
-### **"Finding Nano" Summer School**  
+
+**"Finding Nano" Summer School**  
 _June - July 2017_  
 **Technical University of Munich** - Munich, Germany  
 - Focus: Nanoscience and Nanotechnology, Research and Industry in Germany
@@ -44,6 +46,6 @@ _June - July 2017_
 
 ## Internship
 
-### **Bristol Nano Dynamics Ltd**  
+**Bristol Nano Dynamics Ltd**  
 - Performed market research and analysis to assess potential for high-tech scientific instrumentation.
 - Collected and processed data for the company's prototype high-speed AFM system, contributing to product development insights.
