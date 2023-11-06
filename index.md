@@ -4,8 +4,9 @@ layout: home
 
 **About me**
 
-![👋 Hi, I’m Eva](/assets/images/evaphd.png)
+!(/assets/images/evaphd.png)
 
+👋 Hi, I’m Eva
 
 - PhD in material physics @ University College London, UK. 
 
