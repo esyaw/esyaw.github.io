@@ -5,6 +5,7 @@ title: Skills
 
 ### Technical Skills:
 - Data processing using Python, Gwyddion, Origin, InkScape
+- Experimental characterisation techniques using Atomic Force Microscopy, Transmission Electron Microscope, Raman spectroscopy, X-Ray Diffraction, Inductively Couple Plasma, Thermogravimetric Analysis
 - Designed script and video content on YouTube for undergraduate physics video project
 
 ### Languages:
@@ -12,6 +13,6 @@ title: Skills
 - Basic: German, Cantonese, Hainanese
 
 ### Interests:
-- Music - stage performance, vocal music production
+- Music - singing performance, playing piano & guitar, music production
 - Travel - organising group trips
 - Sports - badminton
